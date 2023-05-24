@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/madiyar-kairolla-3210b0259">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="t.me/kaidiyar">
+  <a href="https://t.me/kaidiyar">
     <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
