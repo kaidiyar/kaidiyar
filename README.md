@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+I am a Software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
 - :telescope: I’m studying in Math major and CS minor and contributing to frontend for building web applications.
 
