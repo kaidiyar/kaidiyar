@@ -29,11 +29,11 @@
 
 I am a Software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
-- :telescope: I’m studying in Math major and CS minor and contributing to frontend for building web applications.
+- :telescope: I’m studying in Math major and contributing to become Data Scientist.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on CodeWars and teach math.
+- :zap: In my free time, I solve problems on Kaggle, building projects, and studying in IT-school.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kaidiyar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madiyar-kairolla-3210b0259)
 
@@ -46,6 +46,12 @@ I am a Software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
